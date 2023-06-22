@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @vipulkhanvilkarr
 - 👀 I’m interested in travelling coding learning and 😴 
 - 🌱 I’m currently learning javascript machine learning 
-- 📫 How to reach me:-
-  GMAIL-  vipulkhanvilkar@gmail.com
-  
   linkedin -  https://www.linkedin.com/in/vipul-khanvilkar-184890242/
 
 <!---
