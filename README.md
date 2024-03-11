@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vipulkhanvilkarr
 - 👀 I’m interested in travelling coding learning and 😴 
-- 🌱 I’m currently learning javascript machine learning 
+- 🌱 I’m currently learning javascript and typescript
+- hands-on experience in Nextjs , react, python
   
 
 <!---
